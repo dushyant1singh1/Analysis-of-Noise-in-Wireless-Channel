@@ -1,1 +1,1 @@
-# Analysis-of-Noise-in-Wireless-Channel
+# Analysis of Noise in Wireless Channel
